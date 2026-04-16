@@ -4,8 +4,6 @@ Below the README, I have provided the exact step-by-step terminal commands you n
 
 ### 1\. The `README.md` File
 
-*Copy everything inside the block below and paste it into your `README.md` file.*
-
 ````markdown
 # Mars-YOLO-15km: Geomorphometric-Consistent Crater Rim Delineation
 
