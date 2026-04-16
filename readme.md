@@ -154,9 +154,3 @@ If you utilize the models, the refined catalog, or the Mars-YOLO-15km benchmark 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ````
-
-
-git push -u origin main
-```
-
-*Note: Depending on your exact YOLO weights size (`best.pt`), the push should complete smoothly in a minute or two since we verified your dataset size is well within limits\!*
