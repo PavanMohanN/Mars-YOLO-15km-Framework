@@ -152,5 +152,3 @@ If you utilize the models, the refined catalog, or the Mars-YOLO-15km benchmark 
 ## 📄 License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-````
