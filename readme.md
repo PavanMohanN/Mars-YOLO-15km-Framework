@@ -1,6 +1,6 @@
 # Mars-YOLO-15km: Geomorphometric-Consistent Crater Rim Delineation
 
-<a href="https://doi.org/10.5281/zenodo.19610406"><img src="https://zenodo.org/badge/1212555189.svg" alt="DOI"></a>
+<a href="[https://doi.org/10.5281/zenodo.19377331](https://doi.org/10.5281/zenodo.19610406)"><img src="https://zenodo.org/badge/1198657555.svg" alt="DOI"></a>
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
