@@ -1,0 +1,6 @@
+path: ../Mars-YOLO-15km  # Root directory of the dataset
+train: images/train
+val: images/val
+
+names:
+  0: crater
