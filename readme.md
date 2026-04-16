@@ -1,10 +1,3 @@
-Here is your final, highly polished `README.md` perfectly aligned with your exact directory structure. It is formatted to the highest academic standards (like the Baker et al. GMM repositories), providing a frictionless experience for reviewers and researchers to clone, install, and execute your code.
-
-Below the README, I have provided the exact step-by-step terminal commands you need to upload this from your local `D:\SDA5\code\Mars-YOLO-15km-Framework` folder to GitHub.
-
-### 1\. The `README.md` File
-
-````markdown
 # Mars-YOLO-15km: Geomorphometric-Consistent Crater Rim Delineation
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
@@ -162,42 +155,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ````
 
-***
 
-### 2. How to Upload Your Repository to GitHub
-
-Follow these exact steps in your terminal (PowerShell or Command Prompt) to initialize Git and push your entire framework up to GitHub.
-
-**Step 1: Create the empty repository on GitHub.com**
-1. Log in to GitHub.
-2. In the top-right corner, click the **+** icon and select **New repository**.
-3. Name the repository exactly: `Mars-YOLO-15km-Framework`
-4. Add a short description (e.g., "Geomorphometric-Consistent Crater Rim Delineation framework").
-5. Leave it as **Public**.
-6. **Do NOT** check the boxes to add a README, .gitignore, or license (because you already have these in your local folder). 
-7. Click **Create repository**.
-
-**Step 2: Initialize your local folder**
-Open your terminal, navigate to your folder, and initialize Git:
-```powershell
-cd D:\SDA5\code\Mars-YOLO-15km-Framework
-git init
-````
-
-**Step 3: Add and Commit your files**
-This stages all your folders (catalogs, data, models, notebooks, runs, scripts, etc.) and creates your first official commit.
-
-```powershell
-git add .
-git commit -m "Initial release of Mars-YOLO-15km Framework for publication"
-```
-
-**Step 4: Link your local folder to GitHub**
-Go to the empty repository page you just created on GitHub. Copy the URL (it will look like `https://github.com/YourUsername/Mars-YOLO-15km-Framework.git`). Run these commands (replacing the URL with your actual one):
-
-```powershell
-git branch -M main
-git remote add origin https://github.com/YourUsername/Mars-YOLO-15km-Framework.git
 git push -u origin main
 ```
 
