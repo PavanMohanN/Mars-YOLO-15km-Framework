@@ -127,12 +127,6 @@ To accelerate next-generation planetary computer vision research, the complete 7
 If you utilize the models, the refined catalog, or the Mars-YOLO-15km benchmark dataset in your research, please cite:
 
 ```bibtex
-@article{neelamraju_geomorphometric_2026,
-  title={Geomorphometric-Consistent Crater Rim Delineation from Orbital Data: Multi-Modal Validation, Radial Profiling, and Benchmarking Against Global Catalogs},
-  author={Neelamraju, Pavan Mohan and Singh, Akshay Pratap and STG, Raghukanth},
-  journal={TBD},
-  year={2026}
-}
 
 @dataset{neelamraju_mars_yolo_2026,
   author       = {Neelamraju, Pavan Mohan and Singh, Akshay Pratap and STG, Raghukanth},
@@ -140,8 +134,8 @@ If you utilize the models, the refined catalog, or the Mars-YOLO-15km benchmark 
   month        = {April},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {[https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)}
+  doi          = {10.5281/zenodo.19610407},
+  url          = {https://doi.org/10.5281/zenodo.19610406}
 }
 ```
 
